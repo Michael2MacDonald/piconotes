@@ -117,7 +117,7 @@ You will need to setup openocd and picoprobe for debugging from VS Code.
 ## Build openocd
 Make sure these tools are installed in WSL
 ```
-sudo apt install automake autoconf build-essential texinfo libtool libftdi-dev libusb-1.0-0- dev
+sudo apt install automake autoconf build-essential texinfo libtool libftdi-dev libusb-1.0-0-dev
 ```
 
 Get the repo
